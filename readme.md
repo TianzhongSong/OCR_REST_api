@@ -1,5 +1,7 @@
 简易深度学习OCR REST api
 
+Reference：[simple-keras-rest-api](https://github.com/jrosebr1/simple-keras-rest-api)
+
 ### 主要依赖
 
 Flask
